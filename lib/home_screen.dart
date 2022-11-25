@@ -49,7 +49,7 @@ class HomeScreen extends StatelessWidget {
                   child: ListView.separated(
                       itemBuilder: (_, index) => EventCard(
                           image: (index + 1).toString(), date: index * 2 + 2),
-                      separatorBuilder: (_, index) => Divider(
+                      separatorBuilder: (_, index) => const Divider(
                           color: CupertinoColors.separator, thickness: .5),
                       itemCount: 6))
             ],
