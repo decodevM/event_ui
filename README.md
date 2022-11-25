@@ -3,7 +3,7 @@
 <p align=“left”>
   <img src="https://github.com/decodevM/event_ui/blob/main/assets/screenshots/start.png" width="200" title="Event Start">
   <img src="https://github.com/decodevM/event_ui/blob/main/assets/screenshots/home1.png" width="200" title="Event Home">
-  <img src="https://github.com/decodevM/shopping_ui/blob/main/assets/screenshots/home2.png" width="200" title="Event Search">
+  <img src="https://github.com/decodevM/event_ui/blob/main/assets/screenshots/home2.png" width="200" title="Event Search">
 </p>
 
 ## Full Tutorial
